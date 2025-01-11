@@ -1,7 +1,7 @@
 # Vision Mamba PyTorch
 
 <p align="center">
-  <img src="Vision Mamba.png" alt="Vision Mamba" style="display:block; margin:auto; width:680px;" />
+  <img src="Vision Mamba.png" alt="Vision Mamba" style="display:block; margin:auto; width:750px;" />
 </p>
 
 PyTorch implementation of Vision Mamba.
